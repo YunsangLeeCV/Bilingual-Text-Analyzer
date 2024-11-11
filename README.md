@@ -1,7 +1,5 @@
 # Bilingual-Text-Analyzer
 
-# C++ [Computer_Vision] Shape_detection
-
 #### 🎥 Preview:
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/2c6f90c5-5381-4dc5-a654-af7b7abcd672">
@@ -25,4 +23,4 @@ Individual project
 
 #### 📌 Function:
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/2ae7a4f1-2c2b-40fe-b3fd-5415f65d51f2">
+<img src= "https://github.com/user-attachments/assets/e61c72fc-095c-47a2-9a20-d94104e5efa2">
