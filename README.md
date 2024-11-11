@@ -2,7 +2,7 @@
 
 #### 🎥 Preview:
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/2c6f90c5-5381-4dc5-a654-af7b7abcd672">
+<img src= "https://github.com/user-attachments/assets/d9b72c62-565b-4606-83ed-1530b1f3b60b">
 
 
 
